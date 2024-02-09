@@ -1,3 +1,6 @@
-<Response
-  <Dial>+17813258701</Dial>
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Dial callerId="+17813258701">
+        <Number>+17813258701</Number>
+    </Dial>
 </Response>
