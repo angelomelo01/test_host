@@ -1,0 +1,6 @@
+<Response>
+  <Pause length='1'/>
+  <Say voice='Polly.Stephen-Neural'>
+    HTTP request was successful
+  </Say>
+</Response>
